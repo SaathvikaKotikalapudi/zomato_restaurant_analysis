@@ -48,6 +48,31 @@ Key features include:
 - Votes / Reviews
 - Price Range
 Dataset files used in this project:
-# 01_Data
+01_Data
 - zomato-restaurants-train.csv
 - zomato-restaurants-test.csv
+# Tools & Technologies
+- Excel – Exploratory Data Analysis & Pivot Tables
+- SQL – Business analysis queries & data extraction
+- Power BI – Interactive dashboard visualization
+- Python – Data preprocessing, feature engineering, and machine learning
+- Scikit-Learn – Model Training & Evaluation
+# Data Cleaning
+  Before performing analysis, the dataset was validated, cleaned, and prepared.
+Steps performed:
+- Handled missing values (e.g., missing cuisines or text reviews)
+- Cleaned and standardized text data (e.g., stripping extra spaces from city/cuisine names)
+- Converted data types (e.g., pricing and ratings converted to numeric formats)
+- Dropped duplicate restaurant entries to ensure data consistency
+- The cleaned dataset was then utilized for further downstream analysis.
+# Exploratory Data Analysis (Excel)
+  Exploratory Data Analysis (EDA) was performed using Excel pivot tables and charts.
+Key analysis performed:
+- Distribution of restaurant ratings across major cities
+- Impact of online delivery availability on total votes
+- Correlation between average cost for two and overall ratings
+- Most popular cuisine types based on restaurant counts
+- Excel helped in identifying initial trends and generating quick data summaries.
+Excel File Location:
+      02_Excel_EDA
+    Telecom_Churn_EDA.xlsx
