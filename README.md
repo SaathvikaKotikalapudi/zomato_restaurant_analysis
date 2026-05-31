@@ -1,7 +1,6 @@
-# zomato_restaurant_analysis
-Table of Contents
-Project Overview
-
+# Zomato_restaurant_analysis
+# Table of Contents
+- Project Overview
 - Business Problem
 - Dataset Information
 - Tools & Technologies
