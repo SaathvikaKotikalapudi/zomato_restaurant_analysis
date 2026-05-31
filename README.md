@@ -35,7 +35,7 @@ The objectives of this project are:
 These insights help restaurant owners and Zomato optimize listings, adjust pricing strategies, and improve customer satisfaction.
 # Dataset Information
 Dataset used: Zomato Restaurant Dataset
-Dataset Source: www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data (or relevant Zomato Kaggle link)
+Dataset Source: https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data (or relevant Zomato Kaggle link)
 The dataset contains comprehensive information about various restaurants listed on Zomato.
 Key features include:
 - Restaurant Name & ID
